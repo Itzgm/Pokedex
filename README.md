@@ -1,6 +1,7 @@
 📦 Requisitos
 
 Python 3.x
+
 Biblioteca requests (instale com pip install requests)
 
 🌐 Fonte dos dados
